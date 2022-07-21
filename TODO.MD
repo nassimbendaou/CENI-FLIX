@@ -6,6 +6,7 @@ The platform can give users possibilities to watch films and Tv Shows each user 
 ![image](https://user-images.githubusercontent.com/55024880/180322296-e9c5e7c6-a7dc-4107-a6e4-e67f5757868e.png)
 
 
-#REQUIREMENT 
-npm install
-.env file with firebase credentials
+# REQUIREMENT 
+***npm install***
+
+***.env file with firebase credentials***
