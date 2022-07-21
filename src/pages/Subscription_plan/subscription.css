@@ -1,0 +1,68 @@
+ /*
+*
+* ==========================================
+* CUSTOM UTIL CLASSES
+* ==========================================
+*
+*/
+.rounded-lg {
+    border-radius: 1rem !important;
+  }
+  .text-small {
+    font-size: 0.9rem !important;
+  }
+  .custom-separator {
+    width: 5rem;
+    height: 6px;
+    border-radius: 1rem;
+  }
+  .text-uppercase {
+    letter-spacing: 0.2em;
+  }
+  /*
+  *
+  * ==========================================
+  * FOR DEMO PURPOSES
+  * ==========================================
+  *
+  */
+  body {
+    background: #141414;
+    background: -webkit-linear-gradient(to right, #141414, #2a2929);
+    background: linear-gradient(to right, #141414, #2a2929);
+    
+    min-height: 100vh;
+  }
+  .plan{
+    color: #141414 !important;
+  }
+  .btn {
+    background-color: #e50914 !important;
+    border-color: #ea0410 !important;
+  }
+  .bg{
+    background-color: #e50914 !important;
+    border-color: #ea0410 !important;
+  }
+  .subs{
+      color: white;
+     margin-bottom: 0rem !important;
+  }
+
+  .card_form {
+      align-items: center;
+      align-self: center;
+      display:inline-block;
+      text-align:center;
+    width: 50% !important;
+    background: -webkit-linear-gradient(to right, #141414, #2a2929);
+    border-radius: 15px;
+    padding: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+    transition:.3s ease-in-out;
+    margin-top: 40px !important;
+    
+}
